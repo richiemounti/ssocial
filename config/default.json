@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://mulama:WIW7lJLr5VKMpaHV@cluster0.xa1qk.mongodb.net/Wine?retryWrites=true&w=majority",
+    "jwtSecret": "my_jwtSecret"
+}
